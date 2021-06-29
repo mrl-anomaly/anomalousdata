@@ -8,7 +8,7 @@ main:
     url: post
     weight: 20
   - name: New Test
-    url: New_Test
+    url: New_test
     weight: 30
   - name: People
     url: people
