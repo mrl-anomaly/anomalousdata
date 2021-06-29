@@ -18,7 +18,7 @@ subtitle:
 design:
   columns: "1"
   background:
-    image: Home__robot_background.jpeg
+    image: mit_institution.jpeg
     image_darken: 0
     image_parallax: false
     image_position: center
