@@ -18,3 +18,15 @@ advanced:
 ---
 
 In the latest set up, the GPASS collects around 28 real-time sensor signals in multiple domains, e.g., angular displacement, velocity, acceleration, magnetic field, strain and so on. Most sensors run at a minimum of 80Hz. So, that’s a lot of data points.  
+
+Here, we published the data as we ran experiments locally for ourselves. The data are preliminarily pre-processed, such as fusing data streams from multiple sensors, synchronizing the time-frame, etc. However, the contents are intact. 
+
+Good news is that we want to do more than just share the data. The GPASS works as a ‘cloud hardware platform’ that accepts ‘quotes’ for anomalous scenarios. If you want a characterized test run for your experiment, fill out the survey. The setup currently supports:
+
+1. Large lateral force (~20N)
+2. High frequency vibration (contact method: 50Hz, contactless method: regulated at 100Hz max)
+3. Grinding (force customizable)
+4. Scratching
+5. Rotational damping 
+
+There is still more to come in the future! Feel free to contact us to develop a new anomalous mode together.
