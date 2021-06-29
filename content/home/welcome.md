@@ -6,7 +6,7 @@
 widget: hero  # See https://wowchemy.com/docs/page-builder/
 headless: true  # This file represents a page section.
 weight: 10  # Order that this section will appear.
-title: "Wowchemy Research Group"
+title: "MIT Anomalous Data"
 subtitle: ""
 hero_media: welcome.jpg
 design:
@@ -17,4 +17,6 @@ advanced:
   css_class:
 ---
 
-The Wowchemy Research Group has been a center of excellence for Artificial Intelligence research, teaching, and practice since its founding in 2016.
+We are the MIT Mechatronics Research Laboratory (MRL). We are currently conducting research in health monitoring/anomaly detection on physical machines. We previously proposed a general purpose anomalous scenario synthesizer (GPASS) to generate various forms of reproducible, controlled dynamic anomalies to a rotary plant. For more technical details, refer to this paper. [ICRA paper link to be done]
+
+
