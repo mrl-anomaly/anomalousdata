@@ -6,8 +6,8 @@
 widget: blank  # See https://wowchemy.com/docs/page-builder/
 headless: true  # This file represents a page section.
 weight: 5  # Order that this section will appear.
-title: ""
-subtitle: "About the Testbed"
+title: "About the Testbed"
+subtitle: ""
 hero_media: 
 design:
   # Choose how many columns the section has. Valid values: 1 or 2.
