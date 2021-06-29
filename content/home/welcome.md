@@ -17,6 +17,5 @@ advanced:
   css_class:
 ---
 
-We are the MIT Mechatronics Research Laboratory (MRL). We are currently conducting research in health monitoring/anomaly detection on physical machines. We previously proposed a general purpose anomalous scenario synthesizer (GPASS) to generate various forms of reproducible, controlled dynamic anomalies to a rotary plant. For more technical details, refer to this paper. [ICRA paper link to be done]
-
+We are the MIT Mechatronics Research Laboratory (MRL). We are currently conducting research in health monitoring/anomaly detection on physical machines. We previously proposed a general purpose anomalous scenario synthesizer (GPASS) to generate various forms of reproducible, controlled dynamic anomalies to a rotary plant. 
 
