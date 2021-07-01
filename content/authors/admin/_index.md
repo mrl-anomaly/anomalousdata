@@ -23,12 +23,12 @@ interests:
 
 education:
   courses:
-  - course: MEng in ___
+  - course: MEng in 
     institution: Massachusetts Institute of Technology
-    year: ****
-  - course: BSc in ___
-    institution: ----------
-    year: ****
+    year: 
+  - course: BSc in 
+    institution:
+    year:
 
 # Social/Academic Networking
 # For available icons, see: https://sourcethemes.com/academic/docs/page-builder/#icons
