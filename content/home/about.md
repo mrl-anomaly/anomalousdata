@@ -16,6 +16,7 @@ advanced:
   css_style:
   css_class:
 ---
+We are the MIT Mechatronics Research Laboratory (MRL). We are currently conducting research in health monitoring/anomaly detection on physical machines. We previously proposed a general purpose anomalous scenario synthesizer (GPASS) to generate various forms of reproducible, controlled dynamic anomalies to a rotary plant. 
 
 In the latest set up, the GPASS collects around 28 real-time sensor signals in multiple domains, e.g., angular displacement, velocity, acceleration, magnetic field, strain and so on. Most sensors run at a minimum of 80Hz. So, that’s a lot of data points.  
 
