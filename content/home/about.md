@@ -30,4 +30,4 @@ Good news is that we want to do more than just share the data. The GPASS works a
 4. Scratching
 5. Rotational damping 
 
-There is still more to come in the future! Feel free to contact us to develop a new anomalous mode together. The status of the GPASS is publicly available via sensor and video online <a href="https://thingspeak.com/channels/1289599"> here </a>.
+There is still more to come in the future! Feel free to contact us to develop a new anomalous mode together. The status of the GPASS is publicly available via sensor and video online <a href="https://thingspeak.com/channels/1289599"> here</a>.
