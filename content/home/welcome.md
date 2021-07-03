@@ -18,5 +18,5 @@ advanced:
 ---
 
 Welcome to MIT Intelligent Anomaly Synthesizer! 
-This website is for running test data remotely. Click <A HREF="MIT-Anomalous-Data/content/test/test_form">here </A> to enter test parameters in the queue. The status of the GPASS is available <a href="https://thingspeak.com/channels/1289599" target="_blank">here</a>.
+This website is for running test data remotely. Click <A HREF="alexpaul247/MIT-Anomalous-Data/content/test/test_form">here </A> to enter test parameters in the queue. The status of the GPASS is available <a href="https://thingspeak.com/channels/1289599" target="_blank">here</a>.
 
