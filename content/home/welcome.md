@@ -17,5 +17,5 @@ advanced:
   css_class:
 ---
 
-Welcome to MIT Intelligent Anomaly Synthesizer! This website is for running test data remotely. Click here to enter test parameters in the queue. The status of the GPASS is available here.
+Welcome to MIT Intelligent Anomaly Synthesizer! This website is for running test data remotely. Click here to enter test parameters in the queue. The status of the GPASS is available <a href="https://thingspeak.com/channels/1289599"> here</a>.
 
